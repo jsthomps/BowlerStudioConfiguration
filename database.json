@@ -14,9 +14,9 @@
       "Dragon"
     ],
     "linkDeviceName": "dyio",
-    "robotName": "DogRobot",
-    "robotGitFile": "DogRobot.xml",
-    "robotGit": "https://gist.github.com/f5b82075ea6dcca93f1ea44265497ec5.git"
+    "robotName": "Giraffe",
+    "robotGitFile": "Paulas_Giraffe.xml",
+    "robotGit": "https://gist.github.com/7bf35c08e5ce9d6258b40c9ce9f3b9cd.git"
   },
   "MenueSettings": {
     "printCSG": true
